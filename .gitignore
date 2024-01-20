@@ -2,4 +2,6 @@
 
 /CPU_information/*.exe
 
+/.vscode
+
 *.exe
